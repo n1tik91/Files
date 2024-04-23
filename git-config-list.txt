@@ -6,6 +6,7 @@ git config --global user.name "username"
 git config --global user.email "valid email address"
 git init
 };
+ Edit for a second commit
 
 
 
